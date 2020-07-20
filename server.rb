@@ -1,3 +1,4 @@
+# test 1
 require 'sinatra'
 require 'stripe'
 # This is your real test secret API key.
